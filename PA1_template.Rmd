@@ -2,9 +2,13 @@
 title: "PA1_template"
 author: "Iwo Augustynski"
 date: "Friday, March 25, 2016"
+<<<<<<< HEAD
 output:
   html_document:
     keep_md: yes
+=======
+output: html_document
+>>>>>>> 54fc3101c85cfa53ae2484046dddf97fdd960752
 ---
 ## Data
 
